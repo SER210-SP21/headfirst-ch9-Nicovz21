@@ -6,10 +6,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.ListView;
 
 import androidx.fragment.app.Fragment;
-import android.widget.ArrayAdapter;
-import android.widget.ListView;
 
 public class WorkoutListFragment extends Fragment {
 static interface Listener{
